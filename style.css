@@ -1,0 +1,85 @@
+body {
+  font-family: 'Figtree', sans-serif;
+  font-weight: 500;
+  background-color: hsl(47, 88%, 63%); /* النصوص العادية */
+}
+.parent{
+    background-color: hsl(0, 0%, 100%);
+    width: fit-content;
+    text-align: center;
+    margin: auto;
+    margin-top: 7%;
+    border-radius: 15px;
+    box-shadow: 6px 10px 8px hsl(0, 0%, 7%);
+}
+.loading{
+    background-color: hsl(47, 88%, 63%);
+    /* text-align: left; */
+    display: block;
+    width: 60px;
+    margin-top: -3px;
+    border-radius:5px ;
+
+    padding: 3px 14px;
+    font-weight: bold;
+   
+    
+    /* display: inline-block; */
+    /* margin: 10px;
+    margin-left: 10px; */
+
+
+}
+.html-css{
+    font-weight: bold;
+    font-size: 23px;
+    /* margin: 0 10px; */
+}
+.main_photo{
+    text-align: center;
+    /* margin: auto; */
+    
+    padding: 20px;
+    
+    /* margin: 30px; */
+    width: 300px;
+    border-radius: 30px;
+    
+
+}
+.publish{
+    font-size: small;
+    margin-top:-4px ;
+    /* background-color: hsl(47, 88%, 63%); */
+    /* text-align: center; */
+
+}
+.texts{
+    /* display: block; */
+    /* width: 100px; */
+    margin-top: -13px;
+    margin-left: 12px;
+    padding: 10px;    
+    text-align: left;
+    margin-right: 20px;
+}
+.define{
+    
+    font-size: small;
+    color: hsl(0, 0%, 42%);
+    margin-top: -10px;
+}
+.avatar{
+    width: 30px;
+    /* border-radius: 50%; */
+    /* padding-top: 10px; */
+    vertical-align: middle;
+    
+}
+.name_avatar{
+    font-weight: bold;
+    font-size: small;
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 20px;
+}
